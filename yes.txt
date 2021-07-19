@@ -1,0 +1,2 @@
+Here is the Yes text file in One folder by the command mkdir One and nano yes.txt 
+
